@@ -53,7 +53,6 @@ https://docs.availproject.org/about/faucet/
 ## Run your app chain:
 
 ```
-cd madara-cli
 screen -S run
 ```
 ```

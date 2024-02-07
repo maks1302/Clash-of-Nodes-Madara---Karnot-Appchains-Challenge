@@ -2,9 +2,7 @@
 ## First install dependencies
 
 ```
-sudo apt update
-sudo apt upgrade
-sudo apt install build-essential
+sudo apt update && sudo apt upgrade -y && sudo apt install build-essential -y
 ```
 ```
 sudo apt install pkg-config

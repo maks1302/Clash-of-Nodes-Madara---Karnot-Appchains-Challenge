@@ -7,8 +7,8 @@ sudo apt update && sudo apt upgrade -y && sudo apt install build-essential -y
 ```
 sudo apt install pkg-config
 sudo apt install libssl-dev
-sudo apt install clang
-sudo apt install protobuf-compiler
+sudo apt install clang -y
+sudo apt install protobuf-compiler -y
 ```
 ## Install Rust
 
